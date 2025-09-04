@@ -1,0 +1,13 @@
+.yeah {
+    color: white;
+    background-color: black;
+}
+
+.nope {
+    background-color: yellow;
+}
+
+.yeah, .nope {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
